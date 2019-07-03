@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Vollkorn&display=swap');
+header{
+
+    font-size: 18px;
+    font-family: Vollkorn, sans-serif !important;
+
+}
+
+#Logo{
+    margin-top: 5%;
+    font-family: Vallkorn, Serif, serif !important;
+}
+
+#LogoDesc{
+    margin-bottom: 3%;
+    font-family: Roboto, sans-serif !important;
+}
+
+.container{
+    margin-top: 2%;
+}
+
+#posts{
+    left: -2%;
+    right: 0;
+}
+
+#sidebar{
+    border: 1px solid red;
+    right: -2%;
+}
+
+.post{
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 0.1ex solid grey;
+    padding: 2% 1% 2% 1%;
+}
+
+.post_text {
+    margin-left: 14%;
+    text-align: right;
+    position: relative;
+}
+
+.post_btn{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.post_info {
+    justify-content: left;
+    font-size: 14px;
+    font-style: italic;
+    color: #b4b4b4;
+    font-family: Roboto;
+}
+.post_img{
+    width: 297px;
+    height: 258px;
+}
